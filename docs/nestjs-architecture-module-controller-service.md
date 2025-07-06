@@ -1,15 +1,15 @@
 ✅ NestJS 구조 정리 - 2025.07.06 (일)
 
-[Client 요청]
+[Client 요청]  
 ↓  
 [Controller] → 요청 받음 (Route handler)  
 ↓  
-[Service] → 핵심 비즈니스 로직 처리  
+[Service] → 핵심 비즈니스 로직 처리<br>  
 ↓  
-[Repository/DB/외부 API] → 실제 데이터 처리  
+[Repository/DB/외부 API] → 실제 데이터 처리<br>  
 ↑  
 [Module] → 위 모든 것들을 등록하고 연결해줌  
-
+  
 
 ✅ **각 요소 설명**
 
