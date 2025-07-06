@@ -4,7 +4,7 @@
 ↓<br>
 [Controller] → 요청 받음 (Route handler)<br>
 ↓<br>
-[Service] → 핵심 비즈니스 로직 처리<br><br>
+[Service] → 핵심 비즈니스 로직 처리<br>
 ↓<br>
 [Repository/DB/외부 API] → 실제 데이터 처리<br>
 ↑<br>
